@@ -1,5 +1,6 @@
 # mnist-recognition BUILDING INNOVATIVE SYSTEMS-UCS757
-THE LIVE WORKING PROJECT IS AVAILABLE AT: https://alpha-num-recognition.herokuapp.com/
+THE LIVE WORKING PROJECT IS AVAILABLE AT: https://kritika-alpha-num-recognition.herokuapp.com/
+
 
 ABOUT DATASET:
 The EMNIST dataset is a set of handwritten character digits derived from the NIST Special Database 19 and converted to a 28x28 pixel image format and dataset structure that directly matches the MNIST dataset.
