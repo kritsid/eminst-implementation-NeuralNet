@@ -24,9 +24,12 @@ TRAINING SET HAS on 112800 samples, VALIDATION HAS 18800 samples
 
 
   <h3>INSTALL ON YOUR MACHINE:</h3><br>
-1) clone this repository 
-2) install the requirements using: pip install -r requirements.txt 
-3) flask run # to run the project on localhost
+1) clone this repository <br>
+
+2) install the requirements using: pip install -r requirements.txt <br>
+
+3) flask run # to run the project on localhost<br>
+
 if u want to remake ML model u can use the data from the link given below.
 <br>
   
@@ -46,7 +49,7 @@ DATASET CAN BE FOUND AT: https://www.kaggle.com/crawford/emnist
   
 ![image](https://user-images.githubusercontent.com/43928250/133066384-93ed5b6d-1318-46c7-a7c8-1fd49bcb0d5b.png)
 
-<h3>output image 2,/h3>
+<h3>output image 2</h3>
 <br>
   
 ![image](https://user-images.githubusercontent.com/43928250/133066568-078f469f-0c9d-429c-b819-db9e5998a0c9.png)
