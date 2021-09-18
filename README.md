@@ -1,5 +1,5 @@
 # mnist-recognition BUILDING INNOVATIVE SYSTEMS-UCS757
-THE LIVE WORKING PROJECT IS AVAILABLE AT: https://kritika-alpha-num-recognition.herokuapp.com/
+THE LIVE DEMO OF  PROJECT IS AVAILABLE AT: https://kritika-alpha-num-recognition.herokuapp.com/
 <br>
 
 <h3>About:</h3>
