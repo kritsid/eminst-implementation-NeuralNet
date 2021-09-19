@@ -10,20 +10,20 @@ This project is implementing EMNIST image dataset, where machine has been traine
 <br>
 
 # ABOUT PROJECT
-UI is using Bootstrap + HTML<br>
+  UI is using Bootstrap + HTML<br>
 
-backend APIs have been designed using Flask.
-<br>
-ML model is using Keras Sequential Model for Convolutional Neural Networks.
-neural net ha 8 layers:
-<br>
-2 Conv2d, 1 max pooling layer, 1 flattening layer, 2 dense layers and 2 droupout layers.
-<br>
-ACTIVATION FUNCTIONS USED RELU, SOFTMAX
-<br>
-TRAINING SET HAS on 112800 samples, VALIDATION HAS 18800 samples
-<BR>
-  ![image](https://user-images.githubusercontent.com/43928250/133225293-938f5924-b78d-4712-8d88-a73c9e0127e1.png)
+  backend APIs have been designed using Flask.
+  <br>
+  ML model is using Keras Sequential Model for Convolutional Neural Networks.
+  neural net ha 8 layers:
+  <br>
+  2 Conv2d, 1 max pooling layer, 1 flattening layer, 2 dense layers and 2 droupout layers.
+  <br>
+  ACTIVATION FUNCTIONS USED RELU, SOFTMAX
+  <br>
+  TRAINING SET HAS on 112800 samples, VALIDATION HAS 18800 samples
+  <BR>
+    ![image](https://user-images.githubusercontent.com/43928250/133225293-938f5924-b78d-4712-8d88-a73c9e0127e1.png)
 
 # ABOUT DATASET
 The EMNIST dataset is a set of handwritten character digits derived from the NIST Special Database 19 and converted to a 28x28 pixel image format and dataset structure that directly matches the MNIST dataset.
@@ -48,7 +48,7 @@ DATASET CAN BE FOUND AT: https://www.kaggle.com/crawford/emnist
 ![image](https://user-images.githubusercontent.com/43928250/133066568-078f469f-0c9d-429c-b819-db9e5998a0c9.png)
 
 # DEPENDENCIES:
- FRONTEND: Bootstrap + HTML<br>
+ FRONTEND: Bootstrap, HTML, CSS, Jinja <br>
  BACKEND: APIs have been designed using Flask.<br>
  ML MODEL: Tensorflow, Pandas, Numpy, Keras Sequential Model<br>
   
