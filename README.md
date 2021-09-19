@@ -47,14 +47,18 @@ DATASET CAN BE FOUND AT: https://www.kaggle.com/crawford/emnist
   
 ![image](https://user-images.githubusercontent.com/43928250/133066568-078f469f-0c9d-429c-b819-db9e5998a0c9.png)
 
-
-# INSTALL ON YOUR MACHINE:
+# DEPENDENCIES:
+ FRONTEND: Bootstrap + HTML<br>
+ BACKEND: APIs have been designed using Flask.<br>
+ ML MODEL: Tensorflow, Pandas, Numpy, Keras Sequential Model<br>
+  
+# INSTALL & RUN ON YOUR MACHINE:
 1) clone this repository <br>
 
 2) install the requirements using: pip install -r requirements.txt <br>
 
 3) flask run # to run the project on localhost<br>
 
-if u want to remake ML model u can use the data from the link given below.
+if u want to remake ML model u can use the data from the link given in ABOUT DATASET section.
 <br>
   
